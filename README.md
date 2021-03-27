@@ -3,10 +3,10 @@
 - 🌱 I’m currently Trying to learn all the new Tech
 - 📫 How to reach me :
                        ```
-                       https://www.facebook.com/Omarkhazeri 
+                       [Facebook](https://www.facebook.com/Omarkhazeri) 
                        ```
                        ```
-                       https://www.instagram.com/Omarkhazeri
+                       [Instagram](https://www.instagram.com/Omarkhazeri)
                        ```
 
 <!---
