@@ -2,9 +2,12 @@
 - 👀 I’m interested in technologie
 - 🌱 I’m currently learning what i can
 - 📫 How to reach me :
-                       https://www.facebook.com/Omarkhazeri
+                       ```bash
+                       https://www.facebook.com/Omarkhazeri 
+                       ```
+                       ```bash
                        https://www.instagram.com/Omarkhazeri
-                        
+                       ```
 
 <!---
 Omarkhazri/Omarkhazri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
