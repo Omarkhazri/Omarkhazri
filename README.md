@@ -1,9 +1,7 @@
-- 👋 Hi, I’m @Omarkhazri
-- 👀 I’m interested in technologie
-- 🌱 I’m currently Trying to learn all the new Tech
-- 📫 How to reach me :
-                       [Facebook](https://www.facebook.com/Omarkhazeri) 
-                       [Instagram](https://www.instagram.com/Omarkhazeri)
+- 👋 Hi, I’m @Omarkhazri.
+- 👀 I’m interested in technologie.
+- 🌱 I’m currently Trying to learn all the new Tech.
+- 📫 How to reach me : [Facebook](https://www.facebook.com/Omarkhazeri) Or [Instagram](https://www.instagram.com/Omarkhazeri).
                        
 
 <!---
